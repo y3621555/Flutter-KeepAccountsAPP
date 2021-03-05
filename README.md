@@ -1,7 +1,10 @@
-# keep_accounts_app
+# keep_accounts_app(記帳APP)
 
-A new Flutter application.
-
+主要用來記錄股票買賣盈虧
+- 日期
+- 哪一檔
+- 金額
+- 盈虧
 ## Getting Started
 
 This project is a starting point for a Flutter application.
